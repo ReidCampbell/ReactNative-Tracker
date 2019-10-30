@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Text, StyleSheet, View } from "react-native";
+import { Text, StyleSheet } from "react-native";
 import MapView, { Polyline } from "react-native-maps";
 
 import { Context as TrackContext } from "../context/TrackContext";
