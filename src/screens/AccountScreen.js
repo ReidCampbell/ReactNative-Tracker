@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { Text, StyleSheet, View } from "react-native";
+import { Text, StyleSheet } from "react-native";
 import { Button } from "react-native-elements";
 import { SafeAreaView } from "react-navigation";
 
